@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grade-table-crud-react-hooks/static/css/main.39bc822d.css",
+    "main.js": "/grade-table-crud-react-hooks/static/js/main.44b90916.js",
+    "index.html": "/grade-table-crud-react-hooks/index.html",
+    "main.39bc822d.css.map": "/grade-table-crud-react-hooks/static/css/main.39bc822d.css.map",
+    "main.44b90916.js.map": "/grade-table-crud-react-hooks/static/js/main.44b90916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39bc822d.css",
+    "static/js/main.44b90916.js"
+  ]
+}
