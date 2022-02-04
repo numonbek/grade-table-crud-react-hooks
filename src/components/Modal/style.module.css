@@ -1,0 +1,29 @@
+.modal_background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
+}
+
+.modal_card {
+    position: fixed;
+    display: block;
+    max-width: 600px;
+    width: 100%;
+    min-height: 250px;
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    z-index: 2;
+    /* top: 400px; */
+
+
+}

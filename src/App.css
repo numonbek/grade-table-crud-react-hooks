@@ -1,0 +1,167 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #212042;
+}
+
+
+.table {}
+
+.table-inner {}
+
+.container {
+
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 140px 2px;
+  text-align: center;
+}
+
+.title {
+  color: #fff;
+  padding: 0px 10px 50px 10px;
+}
+
+table,
+tr,
+td,
+th {
+  /* color: #fff; */
+  background-color: #fff;
+  border: 2px solid rgb(29, 17, 46);
+  border-collapse: collapse;
+  padding: 15px;
+}
+
+table {
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+th {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgb(85, 207, 238);
+  color: white;
+}
+
+td {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
+
+.show {
+  z-index: 25645 !important;
+  position: relative;
+  max-width: 100%;
+  background: #fff
+}
+
+.grade {
+  cursor: pointer;
+}
+
+
+/* from style */
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-title {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.form-info {
+  padding: 15px 0;
+}
+
+.form-button {
+  text-align: end;
+  padding: 15px 0;
+}
+
+.student {
+  display: flex;
+  justify-content: space-between;
+}
+
+.student-fio {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.input-block {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+.input-title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  padding-left: 10px;
+}
+
+
+.checkbox {
+  width: 16px;
+  height: 16px;
+}
+
+
+
+.number {
+  width: 100%;
+  min-height: 50px;
+  padding: 10px;
+  border: 2px solid #F5F6FA;
+}
+
+.btn {
+  max-width: 100px;
+  min-height: 62px;
+}
+
+.btn-submit {
+  max-width: 298px;
+  width: 100%;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+  color: #fff;
+  background: #7671DD;
+  box-shadow: 0px 27px 46px rgba(118, 113, 221, 0.12), 0px 8.13971px 13.8677px rgba(118, 113, 221, 0.0781907), 0px 3.38082px 5.75991px rgba(118, 113, 221, 0.06), 0px 1.22278px 2.08325px rgba(118, 113, 221, 0.0418093);
+  border-radius: 20px;
+  outline: none;
+  border: 0;
+  transition: all 0.5s ease-in-out;
+}
+
+.btn-submit:hover {
+  border: 2px solid #7671DD;
+  box-shadow: 0px 0px 2px 2px;
+  color: #7671DD;
+  text-shadow: 0px 0px 10px #7671DD;
+  background-color: #fff;
+}
+
+input,
+button {
+  cursor: pointer;
+}

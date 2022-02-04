@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "fullName": "Jenny Clean",
+    "date": [
+      {
+        "day": "02.02.2022",
+        "grade": "5"
+      },
+      {
+        "day": "03.02.2022",
+        "grade": "5"
+      },
+      {
+        "day": "04.02.2022",
+        "grade": "2"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "fullName": "Anton Shapavalov",
+    "date": [
+      {
+        "day": "02.02.2022",
+        "grade": "5"
+      },
+      {
+        "day": "03.02.2022",
+        "grade": "5"
+      },
+      {
+        "day": "04.02.2022",
+        "grade": "3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "fullName": "Viktor Solyanik",
+    "date": [
+      {
+        "day": "02.02.2022",
+        "grade": "5"
+      },
+      {
+        "day": "03.02.2022",
+        "grade": "3"
+      },
+      {
+        "day": "04.02.2022",
+        "grade": "5"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "fullName": "Usiyen Topchi",
+    "date": [
+      {
+        "day": "02.02.2022",
+        "grade": "4"
+      },
+      {
+        "day": "03.02.2022",
+        "grade": "5"
+      },
+      {
+        "day": "04.02.2022",
+        "grade": "3"
+      }
+    ]
+  }
+]
